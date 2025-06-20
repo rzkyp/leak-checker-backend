@@ -1,14 +1,11 @@
-
-
-// leak-checker-backend/package.json
 {
   "name": "leak-checker-backend",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "type": "module", // <--- TAMBAHKAN INI
+  "type": "module", 
   "scripts": {
-    "start": "node api/check-leak.js" // Ini tidak akan dijalankan langsung oleh Vercel Functions, tapi bagus untuk konsistensi
+    "start": "node api/check-leak.js"
   },
   "keywords": [],
   "author": "",
