@@ -34,8 +34,3 @@ Lihat `api/check-leak.js` untuk rute yang tersedia.
 ## Lisensi
 
 ISC — lihat `LICENSE`.
-
-
----
-
-<p align="center"><sub>Made with a little help from <b>Hermes</b> · dev colab with hermes</sub></p>
