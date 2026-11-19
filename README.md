@@ -1,19 +1,27 @@
-<p align="center">
-  <img src="assets/banner.png" alt="leak-checker-backend" style="width:100%;max-height:260px;object-fit:cover"/>
-</p>
+<pre>
+ _            _               _               _                    _           
+| |          | |             | |             | |                  | |          
+| | ___  __ _| | ________ ___| |__   ___  ___| | _____ _ __ ______| |__   __ _ 
+| |/ _ \/ _` | |/ /______/ __| &#x27;_ \ / _ \/ __| |/ / _ \ &#x27;__|______| &#x27;_ \ / _` |
+| |  __/ (_| |   &lt;      | (__| | | |  __/ (__|   &lt;  __/ |         | |_) | (_| |
+|_|\___|\__,_|_|\_\      \___|_| |_|\___|\___|_|\_\___|_|         |_.__/ \__,_|
+                                                                               
+                                                                               
+      _                  _ 
+     | |                | |
+  ___| | _____ _ __   __| |
+ / __| |/ / _ \ &#x27;_ \ / _` |
+| (__|   &lt;  __/ | | | (_| |
+ \___|_|\_\___|_| |_|\__,_|
+                           
+                           
+</pre>
 
-<p align="center">
-  <img src="assets/logo.png" alt="leak-checker-backend logo" width="110"/>
-</p>
-
-<h1 align="center">leak-checker-backend</h1>
-
-<p align="center">Backend pemeriksa kebocoran data</p>
+<p align="center">Express + Node.js · leak-check API</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Node.js-339933" alt=""/>
   <img src="https://img.shields.io/badge/Express-000000" alt=""/>
-  <img src="https://img.shields.io/badge/API-blue" alt=""/>
   <img src="https://img.shields.io/badge/ISC-2ea043" alt=""/>
 </p>
 
