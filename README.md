@@ -20,6 +20,9 @@
 <p align="center">Express + Node.js · leak-check API</p>
 
 <p align="center">
+  <img src="docs/logo.png" alt="ZEXO — ZeroDev" width="110">
+</p>
+<p align="center">
   <img src="https://img.shields.io/badge/Node.js-339933" alt=""/>
   <img src="https://img.shields.io/badge/Express-000000" alt=""/>
   <img src="https://img.shields.io/badge/ISC-2ea043" alt=""/>
